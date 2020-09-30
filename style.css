@@ -13,6 +13,12 @@ h1{
 	font-size: 3rem;
 	color: #c7cdd3;
 }
+
+#btnSection {
+   	width: 250px;
+    	text-align: center;
+}
+
 .btn{
 	font-weight: 700;
 	border-radius: 300px;
